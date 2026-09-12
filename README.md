@@ -1,2 +1,5 @@
-# job-portal
-A full-stack Job Portal website designed for the Indian job market, allowing job seekers to search and apply for jobs while employers can post and manage job opportunities. Built with HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL.
+# personal-portfolio
+• Developed a responsive personal portfolio website using HTML, CSS, JavaScript, Tailwind CSS, and MongoDB.
+• Built sections to showcase projects, technical skills, education, and achievements.
+• Added interactive features and dynamic content using JavaScript.
+• Integrated MongoDB to store and manage portfolio-related data
